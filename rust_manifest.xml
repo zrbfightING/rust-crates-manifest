@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="github" fetch="https://github.com" review="https://github.com"/>
+  <default remote="github" revision="master" sync-j="4"/>
+
+  
+  <project groups="rust" name="apache/incubator-teaclave-trustzone-sdk" path="vendor/mediatek/tv/external/rust/optee_rust" revision="refs/tags/v0.2.0" upstream="no-std"/>
+  <project groups="rust" name="bitflags/bitflags" path="vendor/mediatek/tv/external/rust/crates/bitflags-1.0.4" revision="refs/tags/1.0.4" upstream="main"/>
+  
+  <project groups="rust" name="daniel5151/libc_alloc" path="vendor/mediatek/tv/external/rust/crates/libc_alloc-1.0.5" revision="59492d5e931f1f520acd1cae1eacddbea6cba375" upstream="master"/>
+  
+  <project groups="rust" name="uuid-rs/uuid" path="vendor/mediatek/tv/external/rust/crates/uuid-0.7.4" revision="refs/tags/0.7.4" upstream="main"/>
+  <project groups="rust" name="uuid-rs/uuid" path="vendor/mediatek/tv/external/rust/crates/uuid-0.8.2" revision="refs/tags/0.8.2" upstream="main"/>
+  <project groups="rust" name="uuid-rs/uuid" path="vendor/mediatek/tv/external/rust/crates/uuid-1.8.0" revision="refs/tags/1.8.0" upstream="main"/>
+  <project groups="rust" name="uuid-rs/uuid" path="vendor/mediatek/tv/external/rust/crates/uuid-1.9.1" revision="refs/tags/1.9.1" upstream="main"/>
+  
+  <project groups="rust" name="dtolnay/quote" path="vendor/mediatek/tv/external/rust/crates/quote-0.6.13" revision="refs/tags/0.6.13" upstream="master"/>
+  <project groups="rust" name="dtolnay/proc-macro2" path="vendor/mediatek/tv/external/rust/crates/proc-macro2-0.4.30" revision="refs/tags/0.4.30" upstream="master"/>
+  <project groups="rust" name="unicode-rs/unicode-xid" path="vendor/mediatek/tv/external/rust/crates/unicode-xid-0.1.0" revision="refs/tags/v0.1.0" upstream="master"/>
+  <project groups="rust" name="dtolnay/syn" path="vendor/mediatek/tv/external/rust/crates/syn-0.15.44" revision="refs/tags/0.15.44" upstream="master"/>
+  <project groups="rust" name="rust-lang/libc" path="vendor/mediatek/tv/external/rust/crates/libc-0.2.155" revision="refs/tags/0.2.155" upstream="main"/>
+  <project groups="rust" name="KokaKiwi/rust-hex" path="vendor/mediatek/tv/external/rust/crates/hex-0.3.2" revision="refs/tags/v0.3.2" upstream="main"/>  
+</manifest>
