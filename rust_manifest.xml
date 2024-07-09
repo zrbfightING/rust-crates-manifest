@@ -4,7 +4,7 @@
   <default remote="github" revision="master" sync-j="4"/>
 
   
-  <project groups="rust" name="apache/incubator-teaclave-trustzone-sdk" path="vendor/mediatek/tv/external/rust/optee_rust" revision="refs/tags/v0.2.0" upstream="no-std"/>
+  <project groups="rust" name="apache/incubator-teaclave-trustzone-sdk" path="vendor/mediatek/tv/external/rust/optee_rust" revision="no-std" upstream="no-std"/>
   <project groups="rust" name="bitflags/bitflags" path="vendor/mediatek/tv/external/rust/crates/bitflags-1.0.4" revision="refs/tags/1.0.4" upstream="main"/>
   
   <project groups="rust" name="daniel5151/libc_alloc" path="vendor/mediatek/tv/external/rust/crates/libc_alloc-1.0.5" revision="59492d5e931f1f520acd1cae1eacddbea6cba375" upstream="master"/>
