@@ -19,5 +19,23 @@
   <project groups="rust" name="unicode-rs/unicode-xid" path="vendor/mediatek/tv/external/rust/crates/unicode-xid-0.1.0" revision="refs/tags/v0.1.0" upstream="master"/>
   <project groups="rust" name="dtolnay/syn" path="vendor/mediatek/tv/external/rust/crates/syn-0.15.44" revision="refs/tags/0.15.44" upstream="master"/>
   <project groups="rust" name="rust-lang/libc" path="vendor/mediatek/tv/external/rust/crates/libc-0.2.155" revision="refs/tags/0.2.155" upstream="main"/>
-  <project groups="rust" name="KokaKiwi/rust-hex" path="vendor/mediatek/tv/external/rust/crates/hex-0.3.2" revision="refs/tags/v0.3.2" upstream="main"/>  
+  <project groups="rust" name="KokaKiwi/rust-hex" path="vendor/mediatek/tv/external/rust/crates/hex-0.3.2" revision="refs/tags/v0.3.2" upstream="main"/>
+
+  <project groups="rust" name="RustCrypto/utils" path="vendor/mediatek/tv/external/rust/crates/RustCrypto/utils" revision="6d35952d3d3b124bc1049ad6fb406b42b1ce4bfe" upstream="block-buffer/v0.10"/>
+  <project groups="rust" name="RustCrypto/traits" path="vendor/mediatek/tv/external/rust/crates/RustCrypto/traits" revision="25614e2d5a4ccbb0cfde23367a93c8bcdbfe421a" upstream="master"/>
+  <project groups="rust" name="RustCrypto/formats" path="vendor/mediatek/tv/external/rust/crates/RustCrypto/formats" revision="9bf880934c350a5af67df17ba12bf8636486f7f9" upstream="der/v0.7"/>
+  <project groups="rust" name="jhpratt/deranged" path="vendor/mediatek/tv/external/rust/crates/deranged" revision="c25ef2cefe36d92ebf3de6df2faaf293881f7349" upstream="main"/>
+  <project groups="rust" name="fizyk20/generic-array" path="vendor/mediatek/tv/external/rust/crates/generic-array" revision="1397d2bb40c406901b7827161b73b34b056cbe3a" upstream="0.14.7"/>
+  <project groups="rust" name="RustCrypto/MACs" path="vendor/mediatek/tv/external/rust/crates/RustCrypto/MACs" revision="69d0040c62bf5a30faa86269fb799f943c391d68" upstream="master"/>
+  <project groups="rust" name="jhpratt/num-conv" path="vendor/mediatek/tv/external/rust/crates/num-conv" revision="b6606e5c451f5fb2bffc085a6d8d9530f3d44a48" upstream="main"/>
+  <project groups="rust" name="jhpratt/powerfmt" path="vendor/mediatek/tv/external/rust/crates/powerfmt" revision="5889a2a65c99836fd718340726f6b4379bc5028f" upstream="main"/>
+  <project groups="rust" name="rustls/rcgen" path="vendor/mediatek/tv/external/rust/crates/rcgen" revision="6432225c47f5bcdadb74105df89ce0a7c83cb7e6" upstream="main"/>
+  <project groups="rust" name="rustls/rustls" path="vendor/mediatek/tv/external/rust/crates/rustls" revision="7b521dadb98d9198bc8f5e56efe9c14c9690aa83" upstream="main"/>
+  <project groups="rust" name="rustls/pki-types" path="vendor/mediatek/tv/external/rust/crates/rustls-pki-types" revision="0319c7d91ae81914dfb8651ec29a80cebffbc436" upstream="main"/>
+  <project groups="rust" name="rustls/webpki" path="vendor/mediatek/tv/external/rust/crates/rustls-webpki" revision="056e9871be5ab5df48fab40c1e3f519d626d20c8" upstream="main"/>
+  <project groups="rust" name="RustCrypto/hashes" path="vendor/mediatek/tv/external/rust/crates/RustCrypto/hashes" revision="c6decdf36f64e4c651edcf60e12527acfb9d9c9c" upstream="master"/>
+  <project groups="rust" name="dalek-cryptography/subtle" path="vendor/mediatek/tv/external/rust/crates/subtle" revision="main" upstream="main"/>
+  <project groups="rust" name="time-rs/time" path="vendor/mediatek/tv/external/rust/crates/time" revision="3c3c546a661ac59e1a586a4edc65adff04fd1335" upstream="main"/>
+  <project groups="rust" name="paholg/typenum" path="vendor/mediatek/tv/external/rust/crates/typenum" revision="b237efbb1da9646435274f63d7290cb7651b031f" upstream="main"/>
+  <project groups="rust" name="qnighy/yasna.rs" path="vendor/mediatek/tv/external/rust/crates/yasna" revision="b7e65f9a4c317494cce2d18ea02b3d6eaaea7985" upstream="master"/>
 </manifest>
