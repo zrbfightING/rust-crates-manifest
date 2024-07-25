@@ -38,4 +38,5 @@
   <project groups="rust" name="time-rs/time" path="vendor/mediatek/tv/external/rust/crates/time" revision="3c3c546a661ac59e1a586a4edc65adff04fd1335" upstream="main"/>
   <project groups="rust" name="paholg/typenum" path="vendor/mediatek/tv/external/rust/crates/typenum" revision="b237efbb1da9646435274f63d7290cb7651b031f" upstream="main"/>
   <project groups="rust" name="qnighy/yasna.rs" path="vendor/mediatek/tv/external/rust/crates/yasna" revision="b7e65f9a4c317494cce2d18ea02b3d6eaaea7985" upstream="master"/>
+  <project groups="rust" name="dalek-cryptography/curve25519-dalek" path="vendor/mediatek/tv/external/rust/crates/curve25519-dalek" revision="4ac84dd0668b1d2e51654fcdffe4ae6a687bef00" upstream="main"/>
 </manifest>
